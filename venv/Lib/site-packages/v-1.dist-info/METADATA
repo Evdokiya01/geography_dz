@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: v
+Version: 1
+Summary: v makes building projects easier. It's as simple as that.
+Author: Dylan Rogers
+Author-email: opendylan@proton.me
+Requires-Python: >=3,<4
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+# v
+
+Welcome to v - essential tools for programming in Python!
+
+## Installation
+
+Linux / macOS (python3):
+
+```sh
+python3 -m pip install v
+```
+
+Linux / macOS (python2):
+
+``` sh
+python -m pip install v
+```
+
+Windows:
+
+``` sh
+py -m pip install v
+```
+
+[full guide](https://github.com/dylanopen/v/blob/main/docs/installation.md)
+
+## Docs
+
+[v documentation](https://github.com/dylanopen/v/tree/main/docs)
+
+## Changelog
+
+[v changelog](https://github.com/dylanopen/v/blob/main/changelog.txt)
+

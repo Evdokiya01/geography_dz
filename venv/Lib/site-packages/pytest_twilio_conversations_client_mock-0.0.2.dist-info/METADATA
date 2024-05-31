@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pytest-twilio-conversations-client-mock
+Version: 0.0.2
+Home-page: https://github.com/githubjakob/pytest-twilio-conversations-client-mock
+Author: Jakob
+Author-email: hello@jakobzanker.de
+License: GPL-3.0-or-later
+Requires-Dist: twilio (==7.12.0)
+
